@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Удаление массива", "dz 8\Удаление массива.csproj", "{27252630-EBAD-4191-BC48-707134603C30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ДобавлениеЭлементаВМассив", "ДобавлениеЭлементаВМассив\ДобавлениеЭлементаВМассив.csproj", "{524AE4E1-1C05-4695-A7DF-98D362589596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{CF513B4B-4E28-49B9-932E-697DEC4F33A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27252630-EBAD-4191-BC48-707134603C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27252630-EBAD-4191-BC48-707134603C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27252630-EBAD-4191-BC48-707134603C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27252630-EBAD-4191-BC48-707134603C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524AE4E1-1C05-4695-A7DF-98D362589596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524AE4E1-1C05-4695-A7DF-98D362589596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524AE4E1-1C05-4695-A7DF-98D362589596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524AE4E1-1C05-4695-A7DF-98D362589596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF513B4B-4E28-49B9-932E-697DEC4F33A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF513B4B-4E28-49B9-932E-697DEC4F33A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF513B4B-4E28-49B9-932E-697DEC4F33A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF513B4B-4E28-49B9-932E-697DEC4F33A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90AA3E90-3479-4823-93DC-E4194E71400F}
+	EndGlobalSection
+EndGlobal
